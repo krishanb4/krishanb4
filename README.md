@@ -1,7 +1,5 @@
-## Hi there 👋
-
-# 💫 About Me:
-👋 Hello, World!<br>I'm Krishan Bandara!<br><br>🔭 About Me<br>🌍 Location: Malabe, Colombo, Sri Lanka<br>💼 Profession: Chief Technology Officer (CTO) & Blockchain Engineer<br>🎓 Education: Hons in Mechanical Engineering, South Eastern University Sri Lanka (2016 - 2021)<br>🌱 Currently Learning: Zero Knowledge Proofs (ZKPs), zkVM, and advanced DeFi strategies<br>🤝 Looking to Collaborate On: Blockchain, Web3, DeFi, and AI-driven projects<br>⚡ Fun Fact: I’m passionate about integrating decentralized systems with innovative AI models!<br><br>🛠️ Tech Stack<br>💻 Languages: Solidity, C++, JavaScript<br>🌐 Web: Next.js, React, Tailwind CSS, Node.js<br>🛢️ Databases: MongoDB, PostgreSQL<br>⚙️ Tools: Git, Docker, Vercel, LayerZero<br><br>📫 Get in Touch<br>📧 Email: krishanbandara4444@gmail.com<br>💼 LinkedIn: krishanb4<br>🐦 Twitter: @krishanb4444<br>
+## 👋 Hello, World!
+I'm Krishan Bandara!<br><br>🔭 About Me<br>🌍 Location: Malabe, Colombo, Sri Lanka<br>💼 Profession: Chief Technology Officer (CTO) & Blockchain Engineer<br>🎓 Education: Hons in Mechanical Engineering, South Eastern University Sri Lanka (2016 - 2021)<br>🌱 Currently Learning: Zero Knowledge Proofs (ZKPs), zkVM, and advanced DeFi strategies<br>🤝 Looking to Collaborate On: Blockchain, Web3, DeFi, and AI-driven projects<br>⚡ Fun Fact: I’m passionate about integrating decentralized systems with innovative AI models!<br><br>🛠️ Tech Stack<br>💻 Languages: Solidity, C++, JavaScript<br>🌐 Web: Next.js, React, Tailwind CSS, Node.js<br>🛢️ Databases: MongoDB, PostgreSQL<br>⚙️ Tools: Git, Docker, Vercel, LayerZero<br><br>📫 Get in Touch<br>📧 Email: krishanbandara4444@gmail.com<br>💼 LinkedIn: krishanb4<br>🐦 Twitter: @krishanb4444<br>
 
 
 ## 🌐 Socials:
